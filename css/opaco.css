@@ -1,0 +1,26 @@
+.container {
+    background-color: #FFA500;
+    padding: 10px;
+}
+ 
+.text {
+    width: 200px;
+    height: 100px;
+    background-color: transparent;
+    padding: 10px;
+    color: #0000FF;
+    position: absolute;
+    z-index: 1;
+}
+ 
+.background {
+    width: auto;
+    height: auto;
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 0px 170px 10px 170px;
+}
+ 
+.trans {
+    opacity: 0.8;
+}
